@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.exe
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.deps.json
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.runtimeconfig.json
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.dll
+C:\Users\ACER\Desktop\Exercicio - Revisão\bin\Debug\netcoreapp3.1\Exercicio - Revisão.pdb
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.dll
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.pdb
+C:\Users\ACER\Desktop\Exercicio - Revisão\obj\Debug\netcoreapp3.1\Exercicio - Revisão.genruntimeconfig.cache
